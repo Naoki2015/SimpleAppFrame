@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="common_error_msg">请重试...</string>
+    <string name="common_empty_msg">没有数据...</string>
+</resources>

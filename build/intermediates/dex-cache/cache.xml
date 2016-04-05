@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yiwei/SuneeeSoureCode/BbmmApp/app/build/intermediates/exploded-aar/com.zhy/okhttputils/2.3.8/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="42e233d40d3dc2589077a9bd9baba78af58c1abe">
+        <dex dex="/Users/yiwei/SuneeeSoureCode/BbmmApp/app/build/intermediates/pre-dexed/debug/com.zhy-okhttputils-2.3.8_de05f0b1771a13dc56c9a10af5dfbd6ec02374cc.jar" />
+    </item>
+
+</items>
